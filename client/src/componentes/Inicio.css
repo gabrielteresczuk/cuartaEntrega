@@ -1,0 +1,370 @@
+/* -------------- HERO -------------- */
+
+.hero{
+    background-image: url('../images/nvidia.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.hero h3{
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.hero h1{
+    color: white;
+    font-size: 4rem;
+}
+
+.hero button{
+    padding: 1rem 2rem;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.hero button:hover{
+    background-color: white;
+    color: #784BA0;
+}
+
+
+
+/* ----------- PROMOCIONES ---------- */
+
+.promociones__cont{
+    width: 100%;
+    /*height: 600px;*/
+    background-color: #EEEEEE;
+    padding: 0rem 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.promociones{
+    /*border: 1px solid blue;*/
+    position: relative;
+    bottom: 3rem;
+    /*height: 600px;*/
+    /*background-color: lightblue;*/
+    max-width: 1200px;
+    width: 100%;
+}
+
+.promociones .fila1{
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    /*height: 450px;
+    max-height: 4500px;*/
+}
+
+.promocion__dia{
+    background-color: #784BA0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /*max-height: 500px;*/
+    color: white;
+}
+
+.promocion__dia_tit{
+    padding: 1rem;
+    border-bottom: 1px solid #FAFAFA;
+}
+
+.promocion__dia h3 span{
+    font-weight: 400;
+}
+
+.promocion__dia__cont{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1rem;
+    height: 100%;
+}
+
+.promocion__dia__img{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.promocion__dia__gpu{
+    background: #ff7dc7;
+  }
+
+  .promocion__dia__cpu{
+    background: #2B86C5;
+  }
+
+  .promocion__dia__hdd{
+    background: #2B86C5;
+  }
+
+  .promocion__dia__mem{
+    background: #ff7dc7;
+  }
+
+.promocion__dia__img img{
+    width: 100%;
+    height: auto;
+    transition: transform .5s; /* Animation */
+}
+
+.promocion__dia__img img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+
+
+/* --------- promocion item --------- */
+
+.promocion__item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /*max-height: 450px;*/
+    height: 100%;
+    background-color: white;
+}
+.promocion__item__imagen{
+    background-color: white;
+    display: flex;
+
+}
+
+
+
+
+.promocion__item__imagen ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 1rem;
+}
+
+.promocion__item__imagen ul li{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #cccccc;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    color: #cccccc;
+}
+
+.promocion__item__imagen ul li p{
+    color: coral;
+    font-weight: 600;
+    text-align: center;
+}
+
+.promocion__item__img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.promocion__item__imagen img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform .3s; /* Animation */
+}
+
+.promocion__item__imagen img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.star_full{
+    color: #FFC107;
+    font-size: 18px;
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 900,
+    'GRAD' 200,
+    'opsz' 20
+}
+
+.star_empty{
+    color: #cccccc;
+    font-size: 18px;
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 900,
+    'GRAD' 200,
+    'opsz' 20
+}
+
+.promocion__item__data{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: 100%;
+    /*height: 100%;*/
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}  
+
+.promocion__item__data_text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+}
+
+.promocion__item__data_text b{
+    color: #F44336;
+}
+
+.promocion__item__data__control{
+    display: flex;
+    gap: 1rem;
+}
+
+.promocion__item__data__control button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    color: black;
+}
+
+/* ------------- popular ------------ */
+
+.promocion__popular{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /*height: 450px;
+    max-height: 450px;*/
+    box-sizing: border-box;
+    background-color: white;
+    border-left: 1px solid #cccccc;
+}
+
+.promocion__popular h3{
+    padding: 1rem;
+}
+.promocion__popular h3 span{
+    font-weight: 400;
+}
+
+.promocion__cont{
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+}
+
+.promocion__popular__prod{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    height: 33%;
+    background-color: white;
+    border-top: 1px solid #cccccc;
+    padding: 1rem;
+    gap: 1rem;
+}
+
+.promocion__popular__prod__img{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: 1px solid #cccccc;
+    overflow: hidden;
+}
+
+.promocion__popular__prod img{
+    height: 100px;
+    max-height: 100%;
+    width: 100px;
+    object-fit:contain;
+    transition: transform .3s; /* Animation */
+}
+
+.promocion__popular__prod img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+
+
+.promocion__popular__prod__data{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.promocion__popular__prod__data b{
+    color: #F44336;
+}
+
+/* -------------- fila2 ------------- */
+
+.gamas_cont{
+    width: 100%;
+    display: flex;
+}
+
+.gamas_cont img{
+
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.gamas_cont img:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+@media only screen and (max-width: 800px) {
+
+.gamas_cont{
+    flex-direction: column;
+
+}
+
+.gamas_cont img{
+    height: 250px;
+    object-position: top;
+
+}
+
+.promociones .fila1{
+    grid-template-columns:100%;
+}
+
+}

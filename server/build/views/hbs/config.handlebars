@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Teresczuk Gabriel">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>📊</text></svg>">
+    <title>Config - hbs</title>
+    <!-- ------ archivo de estilo ------ -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <link rel="stylesheet" href="/views/css/config.css" />
+    <!-- ----- libreria escencial ------ -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+  </head>
+  <body>
+    <main id="app">
+        <div class="contenedor_config">
+            <div class="titulo">
+                <h1>Configuracion Handlebars :{</h1>
+
+            </div>
+            <p class="texto_ayuda">Aqui podra ver las configuraciones en formato hbs</p>
+            <b>Variables de Entorno</b>
+            <ul class="ul_config">
+                <li><b>Ambiente:</b> {{config.NODE_ENV}}</li>
+                    <li><span>desarrollo / produccion</span></li>
+                <li><b>Puerto:</b> {{config.PORT}}</li>
+                <li><b>DAO:</b> {{config.DAO}}</li>
+                    <li><span>archivo / memoria / mongo / sql</span></li>
+                <li><b>MODO:</b> {{config.MODO}}</li>
+                    <li><span>fork / cluster</span></li>
+                <li><b>MAIL:</b> {{config.MAIL}}</li>
+                <li><b>MAIL_PASS:</b> {{config.MAIL_PASS}}</li>
+                <li><b>TWILIO_SID:</b> {{config.TWILIO_SID}}</li>
+                <li><b>TWILIO_TOKEN:</b> {{config.TWILIO_TOKEN}}</li>
+                <li><b>SESSION_MIN:</b> {{config.SESSION_MIN}}</li>
+                    <li><span>en minutos</span></li>
+            </ul>
+        </div>
+    
+    </main>
+      </body>
+</html>

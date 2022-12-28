@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Teresczuk Gabriel">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>📦</text></svg>">
+    <title>Chat de Administrador</title>
+    <!-- ------ archivo de estilo ------ -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <link rel="stylesheet" href="/views/css/chat.css" />
+    <!-- ----- libreria escencial ------ -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.7/handlebars.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/normalizr@3.6.2/dist/normalizr.browser.js"></script>
+  </head>
+  <body>
+    <div class="chat_cont">
+
+      <div class="chat">
+          <div class="chat_titulo">
+              <h1>Sistema de Chats - Administrador</h1>
+              <p>Selecciona el chat con el que deseas comunicarte.</p>
+          </div>
+          <div class="chat_consola">
+              <div class="chat_consola_chats" id="chat_msg">
+
+
+              </div>
+              <div class="chat_username" >
+                <div id="chat_username" >Sistema</div> 
+                <div class="chat_btns_cont">
+
+                    <a href="/chat" class="chat_privado" id="chat_privado">
+                        <span class="material-symbols-outlined">forum</span>
+                         IR CHAT GENERAL
+                    </a>
+                    <button href="" class="chat_privado" id="chat_logout">
+                        <span class="material-symbols-outlined">logout</span>
+                        SALIR
+                    </button>
+                </div>
+              </div>
+          </div>
+
+      </div>
+
+  </div>
+  </body>
+</html>
+<!-- ----------- script ------------ -->
+
+<script src="../views/js/main_sistema.js"></script>

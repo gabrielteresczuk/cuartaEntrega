@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "63ab876de1e03410536d41b5"
+  },
+  "email": "general",
+  "mensajes": [
+    {
+      "email": "gabriel@gmail.com",
+      "avatar": "gabriel.png",
+      "tipo": "usuario",
+      "fecha": "27/12/2022, 21:01:49",
+      "texto": "Hola buen dia!"
+    },
+    {
+      "email": "aylen@gmail.com",
+      "avatar": "aylen.png",
+      "tipo": "usuario",
+      "fecha": "27/12/2022, 21:02:20",
+      "texto": "Buenas, como estas!"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab8774e1e03410536d41bd"
+  },
+  "email": "gabriel@gmail.com",
+  "mensajes": [
+    {
+      "avatar": "gabriel.png",
+      "tipo": "usuario",
+      "fecha": "27/12/2022, 21:01:56",
+      "texto": "Hola, tengo una consulta."
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ab8793e1e03410536d41db"
+  },
+  "email": "aylen@gmail.com",
+  "mensajes": [
+    {
+      "avatar": "aylen.png",
+      "tipo": "usuario",
+      "fecha": "27/12/2022, 21:02:27",
+      "texto": "Buenas noches, tengo una consulta"
+    }
+  ],
+  "__v": 0
+}]

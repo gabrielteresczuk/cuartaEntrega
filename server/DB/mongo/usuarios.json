@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6366e6821100734353bce983"
+  },
+  "username": "gabriel@gmail.com",
+  "password": "$2b$10$4F/PPSfn62QZmHWO/J0SeeKhf5WNgt9I9KYB7AAcRY7RlfOtpho/K",
+  "nombre": "enrique gabriel",
+  "direccion": "calle falsa 1122",
+  "edad": 28,
+  "telefono": "+543764582025",
+  "avatar": "gabriel.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6366e9254ff775e56ca30874"
+  },
+  "username": "aylen@gmail.com",
+  "password": "$2b$10$fHRge0dVVYCCg82OZZXUsONiFcFYklSmyTyTgXlyEfDvOipZnyOrC",
+  "nombre": "aylen diaz",
+  "direccion": "calle moritan 12356",
+  "edad": 18,
+  "telefono": "+543764582022",
+  "avatar": "aylen.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637bfda7287cbb52881636a3"
+  },
+  "username": "tere@tere.com",
+  "password": "$2b$10$q9KQPABiJQWnqKiAI1A7Y.8Mz.YcnDvB3N7G5Nm3K9FnkNX8NHRaa",
+  "nombre": "tere",
+  "direccion": "tere",
+  "edad": 18,
+  "telefono": "+543764582025",
+  "avatar": "tere.png",
+  "__v": 0
+}]

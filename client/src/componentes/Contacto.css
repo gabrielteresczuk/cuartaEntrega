@@ -1,0 +1,221 @@
+.Contacto{
+    background-color: #ffffff;
+    min-height: 100%;
+    border: 1px solid #cccccc;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Contacto_cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 80%;
+}
+
+.contacto_hero_cont{
+
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contacto_hero_text h1{
+    background-color: #FF3CAC;
+    background-image: linear-gradient(50deg, #FF3CAC , #784BA0 , #2B86C5 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.contacto_hero_text{
+    background-image: url('../images/blob.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.contacto_hero_text h1{
+    color: #0D47A1;
+    font-size: 3rem;
+}
+
+.contacto_hero_text h3{
+    color: #0D47A1;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+.contacto_hero_text h5{
+    width: 50%;
+    text-align: center;
+    font-weight: 400;
+}
+
+.contacto_hero{
+
+    background-image: url('../images/contacto.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    height: 500px;
+    width: 100%;
+}
+
+.contact_form_tit{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+.contact_form_tit h3{
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+
+.contacto_form_bg{
+    background-color: #BAE6FF;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+
+.contacto_form_cont{
+
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    padding-bottom: 5rem;
+    width: 50%;
+    max-width: 1200px;
+}
+
+.contacto_form_fila{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 5px;
+    gap: 5px;
+}
+
+.contacto_form_fila_tit{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding: 5px;
+    gap: 5px;
+    align-items: center;
+}
+
+.contacto_form_fila_tit span{
+    font-size: 3rem;
+}
+
+.contacto_input{
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+    border: 0px;
+}
+
+
+
+.contacto_bnt_enviar{
+    border: 0px;
+    border-radius: 5px;
+    background-color: #0D47A1;
+    width: 100%;
+    color: white;
+    padding: 8px;
+}
+
+.contacto_bnt_enviar:hover{
+    background-color: #0d48a1c7;
+    cursor: pointer;
+}
+
+.contacto_wave1{
+    background-image: url('../images/waves1.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    width: 100%;
+    padding-top: 2rem;
+    height: 100px;
+}
+
+.contacto_wave{
+    background-image: url('../images/waves.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    width: 100%;
+    padding-top: 2rem;
+
+    height: 100px;
+}
+
+.contacto_greet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 450px;
+}
+
+.contacto_greet_fila{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.contacto_greet_fila span{
+    font-size: 7rem;
+    color: #424242;
+}
+
+.contacto_greet_fila h2{
+    color: #424242;
+}
+
+@media only screen and (max-width: 1100px) {
+
+    .contacto_hero_cont{
+        width: 100%;
+
+    }
+}
+
+
+@media only screen and (max-width: 850px) {
+    .contacto_hero_cont{
+        width: 100%;
+      flex-direction: column;
+    }
+
+    .contacto_form_cont{
+        width: 100%;
+    }
+    
+  }

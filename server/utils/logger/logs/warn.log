@@ -1,0 +1,24 @@
+{"level":"warn","message":"ROUTE: /Carrito - METHOD: GET"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Passport - Singup Strategy - ReferenceError: createHash is not defined"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: username is not defined"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: username is not defined"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: username is not defined"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: username is not defined"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: password is not defined"}
+{"level":"error","message":"Passport - login Strategy - ReferenceError: password is not defined"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Enviar SMS:  Error: Authenticate"}
+{"level":"error","message":"Enviar WSP:  Error: Authenticate"}
+{"level":"error","message":"Passport - Singup Strategy - TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":"error","message":"Passport - Singup Strategy - TypeError: Cannot read properties of undefined (reading 'filename')"}
+{"level":"error","message":"Passport - login Strategy - TypeError: usuarios.buscar is not a function"}
+{"level":"error","message":"Passport - Singup Strategy - TypeError: usuarios.buscar is not a function"}

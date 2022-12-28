@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85ed0ab0.css",
+    "main.js": "/static/js/main.9b48b6c3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/profilebg.jpg": "/static/media/profilebg.cfab95c2382a2a7db15e.jpg",
+    "static/media/403.png": "/static/media/403.e0df4d212acd2b21404d.png",
+    "static/media/404.png": "/static/media/404.c0f32b781b0ba1735f6e.png",
+    "static/media/nvidia.jpg": "/static/media/nvidia.e52c14bbe62af382fb05.jpg",
+    "static/media/bg_testimonial.jpg": "/static/media/bg_testimonial.8bb2beacf6253e6b14ac.jpg",
+    "static/media/footer.jpg": "/static/media/footer.db265c33dba2f0351ecd.jpg",
+    "static/media/bg_venta.jpg": "/static/media/bg_venta.07a1126954e9f4f4e307.jpg",
+    "static/media/03.jpg": "/static/media/03.90f581641790847e149c.jpg",
+    "static/media/02.jpg": "/static/media/02.4ec4dffe61f75a68e2d6.jpg",
+    "static/media/promocion__gpu.png": "/static/media/promocion__gpu.0000c254cad749728b8b.png",
+    "static/media/contacto.png": "/static/media/contacto.ece45bcf49cff083628d.png",
+    "static/media/01.jpg": "/static/media/01.c0e95b56cc8e5d9946c2.jpg",
+    "static/media/promocion__hdd.png": "/static/media/promocion__hdd.824aacfb3b72479848a3.png",
+    "static/media/t03.jpg": "/static/media/t03.bed89403e8db9a98a289.jpg",
+    "static/media/t02.jpg": "/static/media/t02.2cb131cd4bf8a4fa934f.jpg",
+    "static/media/t01.jpg": "/static/media/t01.ba113b29399c0b2d2742.jpg",
+    "index.html": "/index.html",
+    "static/media/blob.svg": "/static/media/blob.d01daa753982907ba121.svg",
+    "static/media/waves.svg": "/static/media/waves.4ae987f3d360a0143503.svg",
+    "static/media/waves1.svg": "/static/media/waves1.e42ddec972c9ec214abc.svg",
+    "main.85ed0ab0.css.map": "/static/css/main.85ed0ab0.css.map",
+    "main.9b48b6c3.js.map": "/static/js/main.9b48b6c3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ed0ab0.css",
+    "static/js/main.9b48b6c3.js"
+  ]
+}

@@ -1,0 +1,385 @@
+[{
+  "_id": {
+    "$oid": "631f33baed24e9dd833e1ebf"
+  },
+  "timestamp": "1662989242222",
+  "nombre": "Gigabyte Gaming GeForce RTX 30",
+  "descripcion": "Criterio fundamental a la hora de elegir una placa de video, su resolución de 7680x4320 no te defraudará.",
+  "codigo": "2258",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_685463-MLA48789741716_012022-O.webp",
+  "precio": 151582,
+  "stock": 10,
+  "__v": 0,
+  "categoria": "gpu",
+  "oferta": 0,
+  "ranking": 5,
+  "subcategoria": "alta"
+},{
+  "_id": {
+    "$oid": "631f33dbed24e9dd833e1ec2"
+  },
+  "timestamp": "1662989275743",
+  "nombre": "GeForce RTX 3060 Advanced",
+  "descripcion": "La GeForce RTX™ 3060 Ti y la RTX 3060 te permiten disfrutar de los juegos más recientes con la potencia de Ampere, la segunda generación de la arquitectura RTX de NVIDIA. Logra un rendimiento increíble con los Núcleos Ray Tracing y los Núcleos Tensor mejorados, los nuevos multiprocesadores de streaming y la memoria G6 de alta velocidad.",
+  "codigo": "1028",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_995499-MLA48242519843_112021-O.webp",
+  "precio": 119699,
+  "stock": 12,
+  "__v": 0,
+  "categoria": "gpu",
+  "oferta": 0,
+  "ranking": 4,
+  "subcategoria": "media"
+},{
+  "_id": {
+    "$oid": "6363f7eb98a5569d1f8a80bb"
+  },
+  "timestamp": "1667495915051",
+  "nombre": "GEFORCE GTX 1650 VENTUS",
+  "descripcion": "Como cuenta con 896 núcleos, los cálculos para el procesamiento de gráficos se realizarán de forma simultánea logrando un resultado óptimo del trabajo de la placa. Esto le permitirá ejecutar lecturas dispersas y rápidas de y hacia la GPU.",
+  "codigo": "3398",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_686681-MLA42349359935_062020-O.webp",
+  "precio": 57900,
+  "stock": 18,
+  "__v": 0,
+  "categoria": "gpu",
+  "oferta": 0,
+  "ranking": 3,
+  "subcategoria": "baja"
+},{
+  "_id": {
+    "$oid": "6363fc8798a5569d1f8a80bf"
+  },
+  "timestamp": "1667497095795",
+  "nombre": "RTX 3060 GEFORCE RTX",
+  "descripcion": "Cuenta con 3584 núcleos, por lo que la interfaz de la placa será algo sorprendente. Este tipo de estructura es apropiado para el procesamiento de tecnologías más complejas y modernas caracterizadas por grandes volúmenes de datos.",
+  "codigo": "5091",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_728902-MLA45453583998_042021-O.webp",
+  "precio": 148348,
+  "stock": 15,
+  "__v": 0,
+  "categoria": "gpu",
+  "oferta": 0,
+  "ranking": 4,
+  "subcategoria": "media"
+},{
+  "_id": {
+    "$oid": "638e06bccf55f2fa160a73bd"
+  },
+  "timestamp": "1670252220756",
+  "nombre": "Procesador AMD Ryzen 5 5600G",
+  "descripcion": "AMD Ryzen 5 5600G 100-100000252BOX de 6 núcleos y 4.4GHz de frecuencia con gráfica integrada",
+  "codigo": "1155",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_662985-MLA51325304037_082022-O.webp",
+  "precio": 56450,
+  "stock": 15,
+  "categoria": "cpu",
+  "subcategoria": "media",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638f87802f71ca48475e0161"
+  },
+  "timestamp": "1670350720687",
+  "nombre": "RTX 3090 TI",
+  "descripcion": "NVIDIA GeForce RTX 3090 Ti Founders Edition 8GB GDDR6 PCI Express 4.0 Graphics Card",
+  "codigo": "1569",
+  "foto": "https://m.media-amazon.com/images/I/81ebXLmLM6L._AC_SL1500_.jpg",
+  "precio": 600000,
+  "stock": 15,
+  "categoria": "gpu",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19a405affd9ef553e09ce"
+  },
+  "timestamp": "1671535168844",
+  "nombre": "Procesador AMD Ryzen Threadripper 3970X",
+  "descripcion": "Procesador AMD Ryzen Threadripper 3970X 100-100000011WOF de 32 núcleos y  4.5GHz de frecuencia Imagen 4 de 4 de Procesador AMD Ryzen Threadripper 3970X 100-100000011WOF de 32 núcleos y  4.5GHz de frecuencia Nuevo  |  1 vendido Procesador AMD Ryzen Threadripper 3970X 100-100000011WOF de 32 núcleos y 4.5GHz de frecuencia",
+  "codigo": "1456",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_985890-MLA42162577679_062020-F.webp",
+  "precio": 990000,
+  "stock": 20,
+  "categoria": "cpu",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19a835affd9ef553e09e9"
+  },
+  "timestamp": "1671535235494",
+  "nombre": "Procesador Amd Ryzen 7 5700x",
+  "descripcion": "Procesador Amd Ryzen 7 5700X 4.6 Ghz AM4 Sin Cooler",
+  "codigo": "1568",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_699516-MLA49876512923_052022-F.webp",
+  "precio": 88499,
+  "stock": 15,
+  "categoria": "cpu",
+  "subcategoria": "media",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19abd5affd9ef553e09f8"
+  },
+  "timestamp": "1671535293663",
+  "nombre": "Procesador gamer Intel Core i7-9700K",
+  "descripcion": "Procesador gamer Intel Core i7-9700K BX80684I79700K de 8 núcleos y 4.9GHz de frecuencia con gráfica integrad",
+  "codigo": "4587",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_773602-MLA41292367409_032020-F.webp",
+  "precio": 175000,
+  "stock": 15,
+  "categoria": "cpu",
+  "subcategoria": "media",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19af55affd9ef553e0a09"
+  },
+  "timestamp": "1671535349790",
+  "nombre": "Procesador Intel Core I9-10900k",
+  "descripcion": "Procesador Intel Core I9-10900k De 10 Núcleos 5.3ghz.  Al estar desbloqueado, podrás realizar overclocking y así aumentar la frecuencia de funcionamiento y optimizar el rendimiento de tu equipo. ",
+  "codigo": "65489",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_656195-MLA43406757007_092020-F.webp",
+  "precio": 105000,
+  "stock": 15,
+  "categoria": "cpu",
+  "subcategoria": "media",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19f2e5affd9ef553e0a5e"
+  },
+  "timestamp": "1671536430469",
+  "nombre": "vendidos Memoria RAM Vengeance RGB 8GB ddr4",
+  "descripcion": "Memoria RAM Vengeance RGB RS gamer color negro 8GB 1 Corsair CMG8GX4M1E3200C16",
+  "codigo": "1039",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_695768-MLA52219536734_102022-F.webp",
+  "precio": 15800,
+  "stock": 13,
+  "categoria": "mem",
+  "subcategoria": "baja",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19f685affd9ef553e0a74"
+  },
+  "timestamp": "1671536488348",
+  "nombre": "Memoria RAM Vengeance gamer color negro 8GB ddr4",
+  "descripcion": "Memoria RAM Vengeance gamer color negro 8GB 1 Corsair CMSX8GX4M1A2400C16",
+  "codigo": "3570",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_690797-MLA49576282826_042022-F.webp",
+  "precio": 15999,
+  "stock": 17,
+  "categoria": "mem",
+  "subcategoria": "baja",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19f8e5affd9ef553e0a76"
+  },
+  "timestamp": "1671536526216",
+  "nombre": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 16GB",
+  "descripcion": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 16GB 1 Kingston KF432C16BBA/16",
+  "codigo": "1399",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_601630-MLA52222968473_102022-F.webp",
+  "precio": 22498,
+  "stock": 19,
+  "categoria": "mem",
+  "subcategoria": "media",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19fd75affd9ef553e0a78"
+  },
+  "timestamp": "1671536599168",
+  "nombre": "Memoria RAM Vengeance RGB Pro gamer color negro 16GB",
+  "descripcion": "Memoria RAM Vengeance RGB Pro gamer color negro 16GB 2 Corsair CMW16GX4M2C3000C15",
+  "codigo": "195",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_839595-MLA47963693172_102021-F.webp",
+  "precio": 35900,
+  "stock": 12,
+  "categoria": "mem",
+  "subcategoria": "alta",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a19fff5affd9ef553e0a7a"
+  },
+  "timestamp": "1671536639833",
+  "nombre": "Memoria RAM Vengeance RGB Pro gamer color blanco 32GB",
+  "descripcion": "Memoria RAM Vengeance RGB Pro gamer color blanco 32GB 2 Corsair CMW32GX4M2A2666C16",
+  "codigo": "333",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_903012-MLA48198905138_112021-F.webp",
+  "precio": 71500,
+  "stock": 20,
+  "categoria": "mem",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1a0ef5affd9ef553e0abb"
+  },
+  "timestamp": "1671536879154",
+  "nombre": "Disco sólido interno Kingston 480G",
+  "descripcion": "Disco sólido interno Kingston SA400S37/480G 480GB negro",
+  "codigo": "8337",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_781382-MLA46221874645_052021-F.webp",
+  "precio": 10998,
+  "stock": 18,
+  "categoria": "hdd",
+  "subcategoria": "baja",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1a13d5affd9ef553e0abd"
+  },
+  "timestamp": "1671536957791",
+  "nombre": "Disco Solido Ssd 480 Gb + Case Adata Ed600",
+  "descripcion": "Disco Solido Ssd 480 Gb + Case Adata Ed600. La carcasa ED600 es compatible con equipos portátiles, equipos de sobremesa, PS4, XBOX One y otras consolas de videojuegos. ",
+  "codigo": "136",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_734059-MLA42561942933_072020-F.webp",
+  "precio": 18000,
+  "stock": 15,
+  "categoria": "hdd",
+  "subcategoria": "baja",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1a1685affd9ef553e0abf"
+  },
+  "timestamp": "1671537000550",
+  "nombre": "Disco Solido Ssd 2tb Kingston",
+  "descripcion": "Disco Solido Ssd 2tb Kingston Nvme Skc3000d/2048g. uso intensivo de datos con velocidades de hasta 7.000/7.000 MB/s en lectura/escritura",
+  "codigo": "42",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_929260-MLA52269251083_112022-F.webp",
+  "precio": 66498,
+  "stock": 14,
+  "categoria": "hdd",
+  "subcategoria": "media",
+  "ranking": 4,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1a1965affd9ef553e0ac1"
+  },
+  "timestamp": "1671537046858",
+  "nombre": "Disco Sólido Interno Seagate Firecuda 530 2tb",
+  "descripcion": "Disco Sólido Interno Seagate Firecuda 530 Zp2000gm30023 2tb",
+  "codigo": "987",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_973071-MLA50407567351_062022-F.webp",
+  "precio": 281000,
+  "stock": 15,
+  "categoria": "hdd",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1a1ba5affd9ef553e0ac3"
+  },
+  "timestamp": "1671537082217",
+  "nombre": "Disco Ssd M.2 2280 Silicon Power 4tb ",
+  "descripcion": "Disco Ssd M.2 2280 Silicon Power 4tb Xs70 7,300 Mb/6,800/s",
+  "codigo": "709",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_652402-MLA51430777670_092022-F.webp",
+  "precio": 254800,
+  "stock": 30,
+  "categoria": "hdd",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1b53e5affd9ef553e0c4a"
+  },
+  "timestamp": "1671542078351",
+  "nombre": "Placa de video Nvidia Evga FTW3 Ultra Gaming GeForce RTX 30",
+  "descripcion": "Placa de video Nvidia Evga FTW3 Ultra Gaming GeForce RTX 30 Series RTX 3080 Ti 12G-P5-3967-KR 12GB. Cuenta con 10240 núcleos, por lo que la interfaz de la placa será algo sorprendente.",
+  "codigo": "79",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_949758-MLA48688406148_122021-F.webp",
+  "precio": 495000,
+  "stock": 10,
+  "categoria": "gpu",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1b5cb5affd9ef553e0c57"
+  },
+  "timestamp": "1671542219907",
+  "nombre": "Placa De Video Nvidia Palit Dual Geforce Rtx 3060 Ti 8gb",
+  "descripcion": "Placa De Video Nvidia Palit Dual Geforce Rtx 3060 Ti 8gb.  Nvidia es el fabricante líder de placas de video; su calidad asegura una experiencia positiva en el desarrollo del motor gráfico de tu computadora. ",
+  "codigo": "1582",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_947211-MLA52630571541_112022-F.webp",
+  "precio": 178168,
+  "stock": 18,
+  "categoria": "gpu",
+  "subcategoria": "media",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1b62a5affd9ef553e0c59"
+  },
+  "timestamp": "1671542314391",
+  "nombre": "Placa de video Nvidia MSI Ventus RTX 3070 ",
+  "descripcion": "Placa de video Nvidia MSI Ventus GeForce RTX 30 Series RTX 3070 GEFORCE RTX 3070 VENTUS 2X OC OC Edition 8GB",
+  "codigo": "247",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_689046-MLA52684067659_122022-F.webp",
+  "precio": 161999,
+  "stock": 14,
+  "categoria": "gpu",
+  "subcategoria": "alta",
+  "ranking": 3,
+  "oferta": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a1b6945affd9ef553e0c5b"
+  },
+  "timestamp": "1671542420067",
+  "nombre": "Placa De Video Nvidia Palit Rtx 3080",
+  "descripcion": "Plalaca De Video Nvidia Palit Rtx 3080 Gamerock Rgb 12gb Venex. Este componente electrónico procesa la información que llega al dispositivo y los transforma en imágenes o videos para mostrarla visualmente. ",
+  "codigo": "16",
+  "foto": "https://http2.mlstatic.com/D_NQ_NP_2X_882956-MLA49645799857_042022-F.webp",
+  "precio": 399999,
+  "stock": 20,
+  "categoria": "gpu",
+  "subcategoria": "alta",
+  "ranking": 5,
+  "oferta": 0,
+  "__v": 0
+}]
